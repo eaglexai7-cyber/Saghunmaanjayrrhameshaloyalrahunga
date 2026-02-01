@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fff0f3;
+    font-family: "Nunito", sans-serif;
+}
+.container { text-align: center; padding: 20px; }
+.header_text { font-size: 3em; color: #fa0561; }
+.gif_container img { width: 300px; border-radius: 20px; }
